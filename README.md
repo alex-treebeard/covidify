@@ -164,6 +164,7 @@ A count for all the people who are currently infected for a given date.
 
 <hr>
 
+
 ## Credits
 - Written by me (Aaron Ward  - https://www.linkedin.com/in/aaronjward/)
 - A special thank you to the [JHU CSSE](https://systems.jhu.edu/) team for maintaining the data
